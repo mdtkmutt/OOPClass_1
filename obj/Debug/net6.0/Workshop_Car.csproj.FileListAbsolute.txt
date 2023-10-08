@@ -1,0 +1,15 @@
+/Users/kittinunchobtham/Desktop/Workshop_Car/bin/Debug/net6.0/Workshop_Car
+/Users/kittinunchobtham/Desktop/Workshop_Car/bin/Debug/net6.0/Workshop_Car.deps.json
+/Users/kittinunchobtham/Desktop/Workshop_Car/bin/Debug/net6.0/Workshop_Car.runtimeconfig.json
+/Users/kittinunchobtham/Desktop/Workshop_Car/bin/Debug/net6.0/Workshop_Car.dll
+/Users/kittinunchobtham/Desktop/Workshop_Car/bin/Debug/net6.0/Workshop_Car.pdb
+/Users/kittinunchobtham/Desktop/Workshop_Car/obj/Debug/net6.0/Workshop_Car.csproj.AssemblyReference.cache
+/Users/kittinunchobtham/Desktop/Workshop_Car/obj/Debug/net6.0/Workshop_Car.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kittinunchobtham/Desktop/Workshop_Car/obj/Debug/net6.0/Workshop_Car.AssemblyInfoInputs.cache
+/Users/kittinunchobtham/Desktop/Workshop_Car/obj/Debug/net6.0/Workshop_Car.AssemblyInfo.cs
+/Users/kittinunchobtham/Desktop/Workshop_Car/obj/Debug/net6.0/Workshop_Car.csproj.CoreCompileInputs.cache
+/Users/kittinunchobtham/Desktop/Workshop_Car/obj/Debug/net6.0/Workshop_Car.dll
+/Users/kittinunchobtham/Desktop/Workshop_Car/obj/Debug/net6.0/refint/Workshop_Car.dll
+/Users/kittinunchobtham/Desktop/Workshop_Car/obj/Debug/net6.0/Workshop_Car.pdb
+/Users/kittinunchobtham/Desktop/Workshop_Car/obj/Debug/net6.0/Workshop_Car.genruntimeconfig.cache
+/Users/kittinunchobtham/Desktop/Workshop_Car/obj/Debug/net6.0/ref/Workshop_Car.dll
